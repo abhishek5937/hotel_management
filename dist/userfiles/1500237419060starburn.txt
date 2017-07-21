@@ -1,0 +1,438 @@
+﻿10/5 0:44:17.008 (11bc)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Wed Oct 05 00:44:17 2016
+.
+
+10/5 0:44:17.019 (11bc)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+10/5 0:45:51.744 (1900)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Wed Oct 05 00:45:51 2016
+.
+
+10/5 0:45:51.756 (1900)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+10/5 0:45:53.149 (1900)  StarBurn:StarBurn_DownShut(): EXITing with success
+
+10/5 0:57:34.918 (fa4)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Wed Oct 05 00:57:34 2016
+.
+
+10/5 0:57:34.929 (fa4)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+10/5 1:14:55.757 (126c)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Wed Oct 05 01:14:55 2016
+.
+
+10/5 1:14:55.790 (126c)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+10/5 1:18:58.290 (2e8)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Wed Oct 05 01:18:58 2016
+.
+
+10/5 1:18:58.305 (2e8)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+10/5 1:18:59.880 (2e8)  StarBurn:StarBurn_DownShut(): EXITing with success
+
+10/5 1:25:25.399 (1c78)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Wed Oct 05 01:25:25 2016
+.
+
+10/5 1:25:25.413 (1c78)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+10/5 1:25:26.798 (1c78)  StarBurn:StarBurn_DownShut(): EXITing with success
+
+10/5 1:27:30.595 (1e1c)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Wed Oct 05 01:27:30 2016
+.
+
+10/5 1:27:30.612 (1e1c)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+10/5 1:27:32.023 (1e1c)  StarBurn:StarBurn_DownShut(): EXITing with success
+
+10/5 1:28:17.912 (1b64)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Wed Oct 05 01:28:17 2016
+.
+
+10/5 1:28:17.930 (1b64)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+10/5 1:34:31.696 (1b64)  CStarBurn_ScsiTransportSPTI::CStarBurn_ScsiTransportSPTI(): WARNING! CreateFile( '\\.\StarOpen', 0xc0000000, 3, 0x0000000000000000, 3, 0, 0x0000000000000000 ) failed, status 2 ( 0x2 )
+
+10/5 1:34:31.731 (1b64)  CStarBurn_ScsiTransportSPTI::CStarBurn_ScsiTransportSPTI(): Device '\\.\G:' has SCSI address of 0:1:0:0
+
+10/5 1:34:31.756 (1b64)  CStarBurn_ScsiTransportSPTI::CStarBurn_ScsiTransportSPTI(): WARNING! DeviceIoControl( IOCTL_SCSI_GET_CAPABILITIES, '\\.\G:' ) failed, status 1 ( 0x1 )
+
+10/5 1:34:31.783 (1b64)  SCSI Device Inquiry Data Dump:
+Device Type: 0x05, Removable: Yes
+
+10/5 1:34:31.802 (1b64)  SCSI Version: 0, Soft Reset Supported: No
+
+10/5 1:34:31.821 (1b64)  Command Queue Supported: No, Linked Commands Supported: No
+
+10/5 1:34:31.836 (1b64)  Sync Transfer Supported: No, 16-bit bus: No
+
+10/5 1:34:31.857 (1b64)  32-bit bus: No, Relative Addressing Supported: No
+
+10/5 1:34:31.875 (1b64)  Vendor ID: 'TSSTcorp', Product ID: 'DVD+-RW SU-208GB', Revision Level: 'H100'
+
+
+10/5 1:34:31.892 (1b64)  CStarBurn_ScsiDeviceGeneric::CStarBurn_ScsiDeviceGeneric_SharedConstructor(): 'TSSTcorp' - 'DVD+-RW SU-208GB' - 'H100' sits at 0:1:0:0
+
+10/5 1:34:31.916 (1b64)  CD/DVD Capabilities Page Dump:
+Page Code: 0x2A, Reserved1: 0x00, PSBit (Page Savable): 0
+
+10/5 1:34:31.946 (1b64)  Page Size in UCHARs: 66 UCHARs, CD-R Read: Yes, CD-E Read: Yes
+
+10/5 1:34:31.968 (1b64)  DVD-ROM Read: Yes, DVD-R Read: Yes, DVD-RAM Read: Yes, Reserved2: 0x00
+
+10/5 1:34:31.990 (1b64)  CD-R Write: Yes, CD-E Write: Yes, Test Write: Yes
+
+10/5 1:34:32.008 (1b64)  Reserved3: 0x00, DVD-R Write: Yes, DVD-RAM Write: Yes
+
+10/5 1:34:32.024 (1b64)  Reserved4: 0x00, Audio Play: Yes, Composite: No
+
+10/5 1:34:32.044 (1b64)  Digital Port One: No, Digital Port Two: No
+
+10/5 1:34:32.063 (1b64)  MODE2 Form1: Yes, MODE2 Form2: Yes
+
+10/5 1:34:32.078 (1b64)  Is Multi Session: Yes, CDDA: Yes, CDDAAccurate: Yes
+
+10/5 1:34:32.100 (1b64)  BUP (Buffer Underrun Protection) Supported: Yes
+
+10/5 1:34:32.130 (1b64)  RW Supported: Yes, RW Deinterleaved: No, C2Pointers: Yes
+
+10/5 1:34:32.156 (1b64)  ISRC: Yes, UPC: Yes, Read Bar Code Capable: No
+
+10/5 1:34:32.186 (1b64)  Lock: Yes, LockState: 0, Prevent Jumper: No
+
+10/5 1:34:32.211 (1b64)  Reserved5: 0x00, Eject: Yes, Loading Mechanism Type: 0x01
+
+10/5 1:34:32.239 (1b64)  Separate Volume: Yes, Separate Channel Mute: Yes
+
+10/5 1:34:32.270 (1b64)  Supports Disc Present: No, SW Slot Selection: No
+
+10/5 1:34:32.296 (1b64)  Side Change Capable: No, RW InLeadIn Readable: Yes, Reserved6: 0x00
+
+10/5 1:34:32.327 (1b64)  Maximum Read Speed: 4234 KBps
+
+10/5 1:34:32.349 (1b64)  Number Of Volume Level(s): 256, Buffer Size in KBs: 512
+
+10/5 1:34:32.377 (1b64)  Current Read Speed: 4234 KBps
+
+10/5 1:34:32.411 (1b64)  Reserved7: 0x00
+
+10/5 1:34:32.438 (1b64)  BCK: No, RCK: No, LSBF: No, Length: 0x01
+
+10/5 1:34:32.466 (1b64)  Reserved8: 0x00
+
+10/5 1:34:32.492 (1b64)  Maximum Write Speed: 4234 KBps
+
+10/5 1:34:32.513 (1b64)  Current Write Speed: 0 KBps
+
+10/5 1:34:32.540 (1b64)  Reserved9: 0x0001
+
+
+10/5 1:34:32.559 (1b64)  CStarBurn_CdvdBurnerGrabber::CStarBurn_CdvdBurnerGrabber_SharedConstructor(): Cache size is 0 MBs, 167772160 UCHARs
+
+10/5 1:34:32.593 (1b64)  +++ StarBurn:StarBurn_CdvdBurnerGrabber_CreateEx(): EXITing with success, burner/grabber at 0x000000000FC180A0, device name is 'G:'
+
+10/5 1:34:32.617 (1b64)  StarBurn:StarBurn_CdvdBurnerGrabber_GetAdvancedSupportedMediaFormats(): ENTERed for 0x000000000FC180A0, 0x000000000014DDC0
+
+10/5 1:34:32.641 (1b64)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsEx(): DVD+RW page size in UCHAR(s): 12
+
+10/5 1:34:32.665 (1b64)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsEx(): DVD+R page size in UCHAR(s): 12
+
+10/5 1:34:32.686 (1b64)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsEx(): DVD+R DL page size in UCHAR(s): 12
+
+10/5 1:34:32.709 (1b64)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsExEx(): DVD read feature page size in UCHAR(s): 12
+
+10/5 1:34:32.735 (1b64)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsExEx(): DVD write feature page size in UCHAR(s): 12
+
+10/5 1:34:32.758 (1b64)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsExEx(): DVD+RW DL feature page size in UCHAR(s): 4
+
+10/5 1:34:32.778 (1b64)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsForBluRay(): BD read feature page size in UCHAR(s): 4
+
+10/5 1:34:32.802 (1b64)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsForBluRay(): BD write feature page size in UCHAR(s): 4
+
+10/5 1:34:32.821 (1b64)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsForBluRay(): EXITing with success, BD-ROM Read: 0, BD-R Read: 0, BD-R Write: 0, BD-RE Read: 0, BD-RE Write: 0
+
+10/5 1:34:32.843 (1b64)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsForHDDVD(): HD-DVD read feature page size in UCHAR(s): 4
+
+10/5 1:34:32.866 (1b64)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsForHDDVD(): HD-DVD write feature page size in UCHAR(s): 4
+
+10/5 1:34:32.884 (1b64)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsForHDDVD(): EXITing with success, HD-DVD-ROM Read: 0, HD-DVD-R Read: 0, HD-DVD-R Write: 0, HD-DVD-RW Read: 0, HD-DVD-RW Write: 0
+
+10/5 1:34:32.903 (1b64)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): ENTERed for 0x000000000014DDB0, 0x000000000014DDB1
+
+10/5 1:34:32.928 (1b64)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): Event Data Length 0x0006
+
+10/5 1:34:32.946 (1b64)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): Notification Class: 4, Reserved1: 0x00
+
+10/5 1:34:32.964 (1b64)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): NEA: 0, SupportedEventClasses: 0x5E
+
+10/5 1:34:32.984 (1b64)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): MediaEvent: 0, Reserved2: 0x00
+
+10/5 1:34:33.003 (1b64)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): IsDoorOrTrayOpen: 0, IsMediaPresent: 0
+
+10/5 1:34:33.024 (1b64)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): Reserved3: 0x00, StartSlot: 0x00, EndSlot: 0x00
+
+10/5 1:34:33.043 (1b64)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): EXITing with success
+
+10/5 1:34:33.065 (1b64)  --- StarBurn:StarBurn_Destroy(): About to destroy burner/grabber at 0x000000000FC180A0
+
+
+10/5 1:58:57.496 (29c)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Wed Oct 05 01:58:57 2016
+.
+
+10/5 1:58:57.510 (29c)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+10/5 10:55:37.077 (1b64)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Wed Oct 05 10:55:37 2016
+.
+
+10/5 10:55:37.100 (1b64)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+10/5 11:00:50.033 (1174)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Wed Oct 05 11:00:50 2016
+.
+
+10/5 11:00:50.047 (1174)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+10/5 12:33:48.375 (1c2c)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Wed Oct 05 12:33:48 2016
+.
+
+10/5 12:33:48.389 (1c2c)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+10/6 0:20:17.143 (2b8)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Thu Oct 06 00:20:17 2016
+.
+
+10/6 0:20:17.162 (2b8)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+10/6 0:20:35.981 (2b8)  CStarBurn_ScsiTransportSPTI::CStarBurn_ScsiTransportSPTI(): WARNING! CreateFile( '\\.\StarOpen', 0xc0000000, 3, 0x0000000000000000, 3, 0, 0x0000000000000000 ) failed, status 2 ( 0x2 )
+
+10/6 0:20:36.014 (2b8)  CStarBurn_ScsiTransportSPTI::CStarBurn_ScsiTransportSPTI(): Device '\\.\G:' has SCSI address of 0:1:0:0
+
+10/6 0:20:36.039 (2b8)  CStarBurn_ScsiTransportSPTI::CStarBurn_ScsiTransportSPTI(): WARNING! DeviceIoControl( IOCTL_SCSI_GET_CAPABILITIES, '\\.\G:' ) failed, status 1 ( 0x1 )
+
+10/6 0:20:36.060 (2b8)  SCSI Device Inquiry Data Dump:
+Device Type: 0x05, Removable: Yes
+
+10/6 0:20:36.076 (2b8)  SCSI Version: 0, Soft Reset Supported: No
+
+10/6 0:20:36.095 (2b8)  Command Queue Supported: No, Linked Commands Supported: No
+
+10/6 0:20:36.111 (2b8)  Sync Transfer Supported: No, 16-bit bus: No
+
+10/6 0:20:36.126 (2b8)  32-bit bus: No, Relative Addressing Supported: No
+
+10/6 0:20:36.142 (2b8)  Vendor ID: 'TSSTcorp', Product ID: 'DVD+-RW SU-208GB', Revision Level: 'H100'
+
+
+10/6 0:20:36.157 (2b8)  CStarBurn_ScsiDeviceGeneric::CStarBurn_ScsiDeviceGeneric_SharedConstructor(): 'TSSTcorp' - 'DVD+-RW SU-208GB' - 'H100' sits at 0:1:0:0
+
+10/6 0:20:36.177 (2b8)  CD/DVD Capabilities Page Dump:
+Page Code: 0x2A, Reserved1: 0x00, PSBit (Page Savable): 0
+
+10/6 0:20:36.192 (2b8)  Page Size in UCHARs: 66 UCHARs, CD-R Read: Yes, CD-E Read: Yes
+
+10/6 0:20:36.208 (2b8)  DVD-ROM Read: Yes, DVD-R Read: Yes, DVD-RAM Read: Yes, Reserved2: 0x00
+
+10/6 0:20:36.222 (2b8)  CD-R Write: Yes, CD-E Write: Yes, Test Write: Yes
+
+10/6 0:20:36.237 (2b8)  Reserved3: 0x00, DVD-R Write: Yes, DVD-RAM Write: Yes
+
+10/6 0:20:36.252 (2b8)  Reserved4: 0x00, Audio Play: Yes, Composite: No
+
+10/6 0:20:36.266 (2b8)  Digital Port One: No, Digital Port Two: No
+
+10/6 0:20:36.294 (2b8)  MODE2 Form1: Yes, MODE2 Form2: Yes
+
+10/6 0:20:36.308 (2b8)  Is Multi Session: Yes, CDDA: Yes, CDDAAccurate: Yes
+
+10/6 0:20:36.322 (2b8)  BUP (Buffer Underrun Protection) Supported: Yes
+
+10/6 0:20:36.336 (2b8)  RW Supported: Yes, RW Deinterleaved: No, C2Pointers: Yes
+
+10/6 0:20:36.356 (2b8)  ISRC: Yes, UPC: Yes, Read Bar Code Capable: No
+
+10/6 0:20:36.370 (2b8)  Lock: Yes, LockState: 0, Prevent Jumper: No
+
+10/6 0:20:36.385 (2b8)  Reserved5: 0x00, Eject: Yes, Loading Mechanism Type: 0x01
+
+10/6 0:20:36.400 (2b8)  Separate Volume: Yes, Separate Channel Mute: Yes
+
+10/6 0:20:36.414 (2b8)  Supports Disc Present: No, SW Slot Selection: No
+
+10/6 0:20:36.428 (2b8)  Side Change Capable: No, RW InLeadIn Readable: Yes, Reserved6: 0x00
+
+10/6 0:20:36.442 (2b8)  Maximum Read Speed: 4234 KBps
+
+10/6 0:20:36.456 (2b8)  Number Of Volume Level(s): 256, Buffer Size in KBs: 512
+
+10/6 0:20:36.470 (2b8)  Current Read Speed: 4234 KBps
+
+10/6 0:20:36.485 (2b8)  Reserved7: 0x00
+
+10/6 0:20:36.498 (2b8)  BCK: No, RCK: No, LSBF: No, Length: 0x01
+
+10/6 0:20:36.513 (2b8)  Reserved8: 0x00
+
+10/6 0:20:36.527 (2b8)  Maximum Write Speed: 4234 KBps
+
+10/6 0:20:36.541 (2b8)  Current Write Speed: 0 KBps
+
+10/6 0:20:36.555 (2b8)  Reserved9: 0x0001
+
+
+10/6 0:20:36.569 (2b8)  CStarBurn_CdvdBurnerGrabber::CStarBurn_CdvdBurnerGrabber_SharedConstructor(): Cache size is 0 MBs, 167772160 UCHARs
+
+10/6 0:20:36.591 (2b8)  +++ StarBurn:StarBurn_CdvdBurnerGrabber_CreateEx(): EXITing with success, burner/grabber at 0x00000000257B80A0, device name is 'G:'
+
+10/6 0:20:36.606 (2b8)  StarBurn:StarBurn_CdvdBurnerGrabber_GetAdvancedSupportedMediaFormats(): ENTERed for 0x00000000257B80A0, 0x000000000014DDC0
+
+10/6 0:20:36.622 (2b8)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsEx(): DVD+RW page size in UCHAR(s): 12
+
+10/6 0:20:36.638 (2b8)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsEx(): DVD+R page size in UCHAR(s): 12
+
+10/6 0:20:36.654 (2b8)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsEx(): DVD+R DL page size in UCHAR(s): 12
+
+10/6 0:20:36.689 (2b8)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsExEx(): DVD read feature page size in UCHAR(s): 12
+
+10/6 0:20:36.705 (2b8)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsExEx(): DVD write feature page size in UCHAR(s): 12
+
+10/6 0:20:36.729 (2b8)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsExEx(): DVD+RW DL feature page size in UCHAR(s): 4
+
+10/6 0:20:36.751 (2b8)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsForBluRay(): BD read feature page size in UCHAR(s): 4
+
+10/6 0:20:36.772 (2b8)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsForBluRay(): BD write feature page size in UCHAR(s): 4
+
+10/6 0:20:36.793 (2b8)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsForBluRay(): EXITing with success, BD-ROM Read: 0, BD-R Read: 0, BD-R Write: 0, BD-RE Read: 0, BD-RE Write: 0
+
+10/6 0:20:36.816 (2b8)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsForHDDVD(): HD-DVD read feature page size in UCHAR(s): 4
+
+10/6 0:20:36.839 (2b8)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsForHDDVD(): HD-DVD write feature page size in UCHAR(s): 4
+
+10/6 0:20:36.860 (2b8)  CStarBurn_CdvdBurnerGrabber::GetSupportedMediaFormatsForHDDVD(): EXITing with success, HD-DVD-ROM Read: 0, HD-DVD-R Read: 0, HD-DVD-R Write: 0, HD-DVD-RW Read: 0, HD-DVD-RW Write: 0
+
+10/6 0:20:36.880 (2b8)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): ENTERed for 0x000000000014DDB0, 0x000000000014DDB1
+
+10/6 0:20:36.904 (2b8)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): Event Data Length 0x0006
+
+10/6 0:20:36.924 (2b8)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): Notification Class: 4, Reserved1: 0x00
+
+10/6 0:20:36.944 (2b8)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): NEA: 0, SupportedEventClasses: 0x5E
+
+10/6 0:20:36.963 (2b8)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): MediaEvent: 0, Reserved2: 0x00
+
+10/6 0:20:36.986 (2b8)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): IsDoorOrTrayOpen: 0, IsMediaPresent: 0
+
+10/6 0:20:37.007 (2b8)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): Reserved3: 0x00, StartSlot: 0x00, EndSlot: 0x00
+
+10/6 0:20:37.028 (2b8)  CStarBurn_CdvdBurnerGrabber::GetMediaTrayStatus(): EXITing with success
+
+10/6 0:20:37.049 (2b8)  --- StarBurn:StarBurn_Destroy(): About to destroy burner/grabber at 0x00000000257B80A0
+
+
+10/7 18:47:53.687 (114c)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2016. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2016. All rights reserved.
+
+Started - Fri Oct 07 18:47:53 2016
+.
+
+10/7 18:47:53.711 (114c)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
+6/26 11:22:23.440 (1084)  StarBurn Development Kit for Windows  Version V15.4 'Patriot' ( 0x20150306 )
+
+Copyright (c) Rocket Division Software 2001-2017. All rights reserved.
+
+Copyright (c) StarBurn Software 2009-2017. All rights reserved.
+
+Started - Mon Jun 26 11:22:23 2017
+.
+
+6/26 11:22:23.457 (1084)  License number: 7651, licensed to Desmond_Wondershare_Software_Co.,_Ltd.__-SDK_PRO_15.4_StarBurnSDK_v15_License_Key on Fri Jun 12 13:21:47 2015
+Please report all licensing violations to info@starburnsoftware.com software piracy fighting team.
+
