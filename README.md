@@ -30,3 +30,12 @@ Admin Features
 	View Employee List
 	View Bill
 	Change Password
+
+The main purpose of my exercise is perform each Employee’s activity in  computerized way rather than manually which is time consuming .
+The entire activity is to automate the process of day to day activities of  Hotel like
+
+	Room activities very safely,
+
+	Assign a room according to customer’s demand
+
+	Releasing the room and finally compute the bill in short time .
