@@ -24,7 +24,7 @@
 Admin Features
 
 	The Admin can perform all the functions of the Employee. In addition to those, the Admin can also perform various other functions which are mainly related on the organization of the Employees. These functions include – 
-	Add Employee
+	Add a new Employee
 	Update Employee
 	Add New Room
 	View Employee List
