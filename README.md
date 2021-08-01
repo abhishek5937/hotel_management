@@ -33,9 +33,15 @@ Admin Features
 
 The main purpose of my exercise is perform each Employee’s activity in  computerized way rather than manually which is time consuming .
 The entire activity is to automate the process of day to day activities of  Hotel like
-
 	Room activities very safely,
-
 	Assign a room according to customer’s demand
-
 	Releasing the room and finally compute the bill in short time .
+
+
+Some snapshots of the project are attached below. Detailed snapshots are added in the snapshots repository
+
+1. Database
+![hotel1](https://user-images.githubusercontent.com/24854066/127773544-5ed611d4-1026-48ac-9ef8-1de162009b76.jpg)
+
+2. Homepage
+![image](https://user-images.githubusercontent.com/24854066/127773587-0ca575f1-758d-4d8e-bdb9-9cbf8b6c5da0.png)
