@@ -44,4 +44,5 @@ Some snapshots of the project are attached below. Detailed snapshots are added i
 ![hotel1](https://user-images.githubusercontent.com/24854066/127773544-5ed611d4-1026-48ac-9ef8-1de162009b76.jpg)
 
 2. Homepage
+
 ![image](https://user-images.githubusercontent.com/24854066/127773587-0ca575f1-758d-4d8e-bdb9-9cbf8b6c5da0.png)
